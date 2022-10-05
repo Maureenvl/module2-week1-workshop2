@@ -1,0 +1,5 @@
+ol.b {list-style-type: square;}
+
+ul li{
+    display: inline-block;
+}
